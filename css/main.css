@@ -2,7 +2,6 @@ body {
   background-color: white;
   color:black;
 }
-
 header {
   margin-top: 20px;
 }
@@ -10,13 +9,11 @@ img {
   width: 100%;
   margin-bottom: 30px;
 }
-
 a {
   text-decoration: underline;
   color: green;
   margin-bottom: 30px;
 }
-
 #bannerflog img {
   height: 100px;
 }
@@ -27,14 +24,12 @@ h1{
   font-size: 50px;
   font-weight: bolder;
 }
-
 textarea, input{
   width: 100%;
   border-radius: 0px;
   border: 1px solid DeepPink;
   margin-bottom: 20px;
 }
-
 .posteo {
   color: DeepPink;
 }
@@ -58,6 +53,9 @@ footer{
 }
 
 
-
 /* Estilos comentarios */
 
+
+Contact GitHub API Training Shop Blog About 
+
+© 2017 GitHub, Inc. Terms Privacy Security Status
